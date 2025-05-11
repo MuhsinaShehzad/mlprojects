@@ -13,8 +13,7 @@ Medical insurance premiums vary greatly depending on factors like age, BMI, and 
 ##  Tools & Libraries
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
-- Scikit-learn (Linear Regression, Random Forest, Gradient Boosting)
-- XGBoost
+- Scikit-learn (Linear Regression, Random Forest, Gradient Boosting, XGBoost)
 - Jupyter Notebook
 
 ---
@@ -28,22 +27,13 @@ Medical insurance premiums vary greatly depending on factors like age, BMI, and 
 
 ---
 
-##  Best Model Performance
-
-| Model                | R² Score (Approx) |
-|----------------------|-------------------|
-| Linear Regression    | ~0.75             |
-| Random Forest        | ~0.78             |
-| **XGBoost Regressor**| **~0.80+**        |
-
----
-
 ##  Files in This Repository
 
 | File Name                      | Description                            |
 |-------------------------------|----------------------------------------|
 | `insurance.csv`               | The dataset used for model training    |
 | `ML_Project.ipynb`            | The full notebook with analysis & models |
+| 'Visualization'               | The graphs and plots
 | `README.md`                   | Project summary and insights           |
 
 

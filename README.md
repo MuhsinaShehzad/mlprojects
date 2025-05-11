@@ -33,7 +33,7 @@ Medical insurance premiums vary greatly depending on factors like age, BMI, and 
 |-------------------------------|----------------------------------------|
 | `insurance.csv`               | The dataset used for model training    |
 | `ML_Project.ipynb`            | The full notebook with analysis & models |
-| 'Visualization'               | The graphs and plots
+| `Visualization`              | The graphs and plots
 | `README.md`                   | Project summary and insights           |
 
 

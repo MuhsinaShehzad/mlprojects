@@ -24,7 +24,7 @@ Medical insurance premiums vary greatly depending on factors like age, BMI, and 
 - Higher **BMI** and **age** are strongly associated with higher charges.
 - **Sex** and **region** have minimal influence on the prediction.
 - Among all models, **XGBoost** gave the highest prediction accuracy.
-
+  
 ---
 
 ##  Files in This Repository

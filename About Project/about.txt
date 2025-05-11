@@ -1,0 +1,61 @@
+📝 Project Description:
+
+This project uses a dataset of medical insurance information to build a regression model that predicts insurance charges.
+The dataset includes variables such as age, sex, BMI, number of children, smoking status, and region.
+The goal is to understand which features most affect insurance costs and create a predictive model using Python.
+  ----------------------------------------------------------------------------
+🧰 Tools & Technologies:
+
+Python
+
+Jupyter Notebook
+
+Pandas, NumPy (py libraries)
+
+scikit-learn (Linear Regression, Random Forest, SVR, Gradient Boost, XGBoost)
+
+Matplotlib, Seaborn (for data visualization)
+  ----------------------------------------------------------------------------------
+📊 EDA (Exploratory Data Analysis):
+
+Smokers are charged significantly higher insurance premiums than non-smokers.
+
+BMI (especially >30, indicating obesity) is correlated with higher charges.
+
+Age is positively correlated with insurance charges — older people tend to pay more.
+
+Sex and region have comparatively lower impact on charges.
+  ----------------------------------------------------------------------------
+🤖 Models Used:
+
+You tested multiple regression models including:
+
+Linear Regression
+
+Decision Tree Regressor
+
+Random Forest Regressor
+
+Gradient Boosting Regressor
+
+XGBoost Regressor (with hyperparameter tuning)
+  ------------------------------------------------------------------
+🥇 Best Performing Model:
+
+XGBoost Regressor gave the highest accuracy and best performance.
+
+“XGBoost model is giving the highest accuracy — predictions made by this model are closest to the real values compared to others.”
+  --------------------------------------------------------------------------
+📌 Feature Importance (from final model):
+
+Top predictors of charges:
+
+Smoking status
+
+BMI
+
+Age
+
+Number of children (minor influence)
+
+Region (least influential)
